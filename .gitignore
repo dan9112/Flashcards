@@ -1,0 +1,77 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Flashcards/*
+!/Flashcards/task/
+/Flashcards/task/*
+!/Flashcards/task/src/
+!/Flashcards/task/build.gradle
+!/Flashcards/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Arrays/Swap elements/out/
+/Topics/Arrays/Swap elements/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Data class/copy() usage/out/
+/Topics/Data class/copy() usage/out/production/classes/
+/Topics/Equality/True captain/out/
+/Topics/Equality/True captain/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/Hierarchy of exceptions/Fix the code/out/
+/Topics/Hierarchy of exceptions/Fix the code/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Invoking functions/Square root/out/
+/Topics/Invoking functions/Square root/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Overview of the basic program/The eternal truth/out/
+/Topics/Overview of the basic program/The eternal truth/out/production/classes/
+/Topics/Ranges/Check the value/out/
+/Topics/Ranges/Check the value/out/production/classes/
+/Topics/Standard input/Read and print/out/
+/Topics/Standard input/Read and print/out/production/classes/
+/Topics/Standard output/Amount on the account/out/
+/Topics/Standard output/Amount on the account/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/Standard output/We need to learn Kotlin/out/
+/Topics/Standard output/We need to learn Kotlin/out/production/classes/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/The Math library/Fourth root/out/
+/Topics/The Math library/Fourth root/out/production/classes/
+/Topics/Values and variables/Swap/out/
+/Topics/Values and variables/Swap/out/production/classes/
+/Topics/What is an exception/Cause an exception/out/
+/Topics/What is an exception/Cause an exception/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
